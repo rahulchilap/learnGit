@@ -1,0 +1,7 @@
+.h1Class {
+  color: red;
+  display: inline-block;
+}
+.h1Class:hover {
+  color: black;
+}
